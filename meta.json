@@ -1,6 +1,6 @@
 {
     "updateUrls": [
-        "https://raw.githubusercontent.com/modserverautoupdate/modserverpack/refs/heads/master/updates/2.zip"
+        "https://raw.githubusercontent.com/modserverautoupdate/modserverpack/refs/heads/master/updates/1.zip"
     ],
     "freshUrl": "https://raw.githubusercontent.com/modserverautoupdate/modserverpack/refs/heads/master/updates/fresh.zip",
     "version": 1

@@ -6,7 +6,8 @@
         "https://raw.githubusercontent.com/modserverautoupdate/modserverpack/refs/heads/master/updates/4.zip",
         "https://raw.githubusercontent.com/modserverautoupdate/modserverpack/refs/heads/master/updates/5.zip",
         "https://raw.githubusercontent.com/modserverautoupdate/modserverpack/refs/heads/master/updates/6.zip",
-        "https://raw.githubusercontent.com/modserverautoupdate/modserverpack/refs/heads/master/updates/7.zip"
+        "https://raw.githubusercontent.com/modserverautoupdate/modserverpack/refs/heads/master/updates/7.zip",
+        "https://raw.githubusercontent.com/modserverautoupdate/modserverpack/refs/heads/master/updates/8.zip"
 
 
 
@@ -15,5 +16,5 @@
 
     ],
     "freshUrl": "https://raw.githubusercontent.com/modserverautoupdate/modserverpack/refs/heads/master/updates/fresh.zip",
-    "version": 7
+    "version": 8
 }
